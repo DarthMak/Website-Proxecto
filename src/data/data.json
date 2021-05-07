@@ -1,0 +1,138 @@
+{
+    "Header": {
+
+        "title": "We are Proxecto",
+        "paragraph": "We Create to Alleviate"
+
+    },
+    "About": {
+        "paragraph": "Makrant Bhanot and Vikrant Boora are co-foundeders of design startup company Proxecto. The idea got its root  from several freelance work done togather as a team. The duo realised that they worked and thought about it everyday. Obviously they were passionate about it. So the companies mantra is ' just put your mind to it and do it.' As for competition we embrace them, learn from them. The contemporary education one of our directors is a software engineer and another is an aerospace engineer but what's life if it goes as planned... So here we take a leap of faith with a zeal to do our best.", 
+   
+        
+        "Why": [
+            "Blended Approach",
+            "Pocket Friendly",
+            "Sustainable Support Throughout",
+            "Attention to Details"
+        ],
+        "Why2": [
+            "Quality Product",
+            "Novel Designs",
+            "Tailor Made to Your Needs",
+            "Constantly Evolving"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-paint-brush",
+            "name": "Graphic Design",
+            "text": "Logo Design, Digital Designs, Editorial Designs, Exibition Designs, Packaging Designs, Illustrations, Banner Designs, Brochure, Leaflet and Corporate Identities."
+        },
+        {
+            "icon": "fa fa-film",
+            "name": "Film Editing and Visual Effects",
+            "text": "Advertisments, Documentaries, Visual Effects, Motion Graphics, Animation and Film/Video Editing"
+        },
+        {
+            "icon": "fa fa-desktop",
+            "name": "Web Design",
+            "text": "3D and Animated Website Designing, UI/UX Design, Dynamic and Static Web Design, Landing Page Design, Website Front-End Back-End Development, Search Engine Optimization and Digital Marketing"
+        },
+        {
+            "icon": "fa fa-cogs",
+            "name": "Product Design",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cubes",
+            "name": "3D Scanning",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Data Visualisation",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
